@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "884376004773",
+    "project_id": "ats-bsu-kalla",
+    "storage_bucket": "ats-bsu-kalla.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884376004773:android:0d7d035618240909f9854c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJCzliR0c6PafzI62o5ca_QrBDiNkLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884376004773:android:90d0a249535f7fd7f9854c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_learn_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJCzliR0c6PafzI62o5ca_QrBDiNkLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884376004773:android:dbec0eeb09c1ae86f9854c",
+        "android_client_info": {
+          "package_name": "com.kalla.ats.approver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJCzliR0c6PafzI62o5ca_QrBDiNkLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
