@@ -10,6 +10,10 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform
   );
 
+  final fcmToken = await FirebaseMessaging.instance.getToken();
+
+  debugPrint('FCM TOKEN = $fcmToken');
+
   await FirebaseMessaging.instance.subscribeToTopic('learn');
   runApp(const MainApp());
 }
